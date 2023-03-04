@@ -1,0 +1,14 @@
+
+.carousel-inner img, footer{
+    border-radius: 20px;
+}
+.fa-solid, .fa-fire{
+    color: red !important;
+}
+
+@media screen and (max-width: 767px) {
+        .cc{
+            display: flex;
+            flex-direction: column;
+    }
+}
